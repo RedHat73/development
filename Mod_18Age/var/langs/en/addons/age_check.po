@@ -1,0 +1,33 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::age_check"
+msgid "Simtech Development: Age check"
+msgstr "Simtech Development: Age check"
+
+msgctxt "Addons::description::age_check"
+msgid "Allows you to check the age of the site visitor"
+msgstr "Allows you to check the age of the site visitor"
+
+msgctxt "Languages::birthday"
+msgid "Birthday"
+msgstr "Birthday"
+
+msgctxt "Languages::age_check"
+msgid "WARNING !"
+msgstr "WARNING !"
+
+msgctxt "Languages::age_check_content"
+msgid "We are glad that you have visited our store.<br> Our store contains products for adults.<br>In order to avoid unpleasant situations, please indicate your date of birth.<br>"
+msgstr "We are glad that you have visited our store.<br> Our store contains products for adults.<br>In order to avoid unpleasant situations, please indicate your date of birth.<br>"
+
+msgctxt "Languages::no_age_check_content"
+msgid "We're sorry, but you're still young.<br>Come back when you're 18.<br>"
+msgstr "We're sorry, but you're still young.<br>Come back when you're 18.<br>"
+
+msgctxt "Languages::yes_age_check_content"
+msgid "Welcome!<br>We have a wide range of products for adults.<br>"
+msgstr "Welcome!<br>We have a wide range of products for adults.<br>"

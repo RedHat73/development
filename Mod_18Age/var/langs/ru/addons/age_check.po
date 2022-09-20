@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.1/addons/age_check.po\n"
+"X-Crowdin-File-ID: 6580\n"
+"PO-Revision-Date: 2022-07-20 14:34\n"
+
+msgctxt "Addons::name::age_check"
+msgid "Simtech Development: Age check"
+msgstr "Simtech Development: Проверка возраста"
+
+msgctxt "Addons::description::age_check"
+msgid "Allows you to check the age of the site visitor"
+msgstr "Позволяет проверить совершенолетие посетителя сайта"
+
+msgctxt "Languages::birthday"
+msgid "Birthday"
+msgstr "День рождения"
+
+msgctxt "Languages::age_check"
+msgid "WARNING !"
+msgstr "ВНИМАНИЕ !"
+
+msgctxt "Languages::age_check_content"
+msgid "We are glad that you have visited our store.<br> Our store contains products for adults.<br>In order to avoid unpleasant situations, please indicate your date of birth.<br>"
+msgstr "Мы рады, что вы посетили наш магазин.<br> Наш магазин содержит товары для взрослых.<br>С целью избежания неприятных ситуаций, укажите дату Вашего рождения.<br>"
+
+msgctxt "Languages::no_age_check_content"
+msgid "We're sorry, but you're still young.<br>Come back when you're 18.<br>"
+msgstr "Нам жаль, но Вы еще молоды.<br>Возвращайтесь когда Вам будет 18 лет.<br>"
+
+msgctxt "Languages::yes_age_check_content"
+msgid "Welcome!<br>We have a wide range of products for adults.<br>"
+msgstr "Добро пожаловать!<br>У нас широкий ассортимент товаров для взрослых.<br>"
